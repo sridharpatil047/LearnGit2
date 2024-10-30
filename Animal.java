@@ -3,4 +3,5 @@ public class Animal {
   int b;
   int feature;
   int feature2;
+  int feature3;
 }
